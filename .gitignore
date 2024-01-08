@@ -1,0 +1,15 @@
+/logs
+/venv
+.env
+standalone_admin_password.txt
+/dags/atividade_aula_4.py
+/dags/dados_climaticos.py
+/dags/meu_primeiro_dag.py
+/pasta
+/pasta=2024-01-02T00:00:00+00:00
+/pasta=2024-01-03T00:00:00+00:00
+/pasta=2024-01-04T00:00:00+00:00
+/pasta=2024-01-05T00:00:00+00:00
+/semana=2023-12-25
+/semana=2024-01-01
+/semana=2024-01-08
