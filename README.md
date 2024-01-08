@@ -8,7 +8,7 @@ Cabe ressaltar que a escolha de replicar o comportamento da API do Twitter se de
 
 
 ## 🖥️Desafios do Projeto
-ENeste projeto de Engenharia de Dados, enfrentamos o desafio de estabelecer uma conexão com uma API por meio do Python, com o objetivo de extrair dados usando o Apache Airflow, um orquestrador de fluxo de dados. Com essa ferramenta, é possível planejar as tarefas de extração e armazenamento de dados em um Data Lake.
+Neste projeto de Engenharia de Dados, enfrentamos o desafio de estabelecer uma conexão com uma API por meio do Python, com o objetivo de extrair dados usando o Apache Airflow, um orquestrador de fluxo de dados. Com essa ferramenta, é possível planejar as tarefas de extração e armazenamento de dados em um Data Lake.
 
 No Apache Airflow, foram configurados o Hook, o Operator e os DAGs, conferindo ao Airflow a capacidade de realizar uma orquestração eficiente.
 
